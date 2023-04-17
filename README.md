@@ -9,7 +9,7 @@
   <tbody>
     <tr>
       <td align="center" width="200px"><a href="https://github.com/yjko1853"><img src="https://avatars.githubusercontent.com/u/95089298?v=4" width="190px;"/><br>고윤정</a></td>
-      <td align="center" width="200px"><a href=""><img src="" width="190px;"/><br>구지연</a></td>
+      <td align="center" width="200px"><a href="https://github.com/tobby6"><img src="" width="190px;"/><br>구지연</a></td>
       <td align="center" width="200px"><a href="https://github.com/yi219"><img src="https://avatars.githubusercontent.com/u/80373650?v=4" width="190px;"/><br>금예인</a></td>
       <td align="center" width="200px"><a href="https://github.com/def30"><img src="https://avatars.githubusercontent.com/u/83496413?v=4" width="190px;"/><br>박준서</a></td>
   </tbody>
